@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Certified Kubernetes Administrator (CKA) Course
 
 These are notes from the [Certified Kubernetes Administrator Course](https://kodekloud.com/courses/certified-kubernetes-administrator-cka/) hosted on KodeKloud.
@@ -241,3 +242,7 @@ These are notes from the [Certified Kubernetes Administrator Course](https://kod
   - [04-CKA-MockExam-2-Solution](docs/15-Mock-Exams/04-CKA-MockExam-2-Solution.md)
   - [05-Mock-Exam-3](docs/15-Mock-Exams/05-Mock-Exam-3.md)
   - [06-CKA-MockExam-3-Solution](docs/15-Mock-Exams/06-CKA-MockExam-3-Solution.md)
+=======
+# Comp_pro
+
+>>>>>>> 93a53c9a70838dc8818b1faf5926538076b162f4

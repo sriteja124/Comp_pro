@@ -2,3 +2,4 @@
 
 pwd
 echo "hi"
+echo "success"

@@ -3,5 +3,5 @@
 echo hello world
 
 echo "$PWD"
-cd Comp_pro
+cd $PWD/Comp_pro
 echo "$PWD"

@@ -1,4 +1,5 @@
 #!/bin/bash
-
+var="$pwd"
 echo hello world
-echo "$pwd"
+echo $var
+echo "$PWD"

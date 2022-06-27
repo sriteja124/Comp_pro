@@ -3,5 +3,6 @@
 echo hello world
 
 echo "$PWD"
-cd $PWD/test
+cd $PWD
+cd test
 echo "$PWD"

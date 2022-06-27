@@ -4,5 +4,6 @@ echo hello world
 
 echo "$PWD"
 cd $PWD
-cd $PWD/test
+mkdir helo
+cd ./helo
 echo "$PWD"

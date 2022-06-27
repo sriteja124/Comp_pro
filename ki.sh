@@ -4,5 +4,5 @@ echo hello world
 
 echo "$PWD"
 cd $PWD
-cd test
+cd $PWD/test
 echo "$PWD"

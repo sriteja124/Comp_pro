@@ -1,5 +1,7 @@
 #!/bin/bash
-var="$pwd"
+
 echo hello world
-echo $var
+
+echo "$PWD"
+cd Comp_pro
 echo "$PWD"
